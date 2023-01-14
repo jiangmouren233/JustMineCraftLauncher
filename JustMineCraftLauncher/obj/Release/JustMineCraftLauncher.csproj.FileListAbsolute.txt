@@ -1,0 +1,12 @@
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\bin\Release\JustMineCraftLauncher.exe.config
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\bin\Release\JustMineCraftLauncher.exe
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\bin\Release\JustMineCraftLauncher.pdb
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\obj\Release\MainWindow.baml
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\obj\Release\MainWindow.g.cs
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\obj\Release\App.g.cs
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\obj\Release\JustMineCraftLauncher_MarkupCompile.cache
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\obj\Release\JustMineCraftLauncher.g.resources
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\obj\Release\JustMineCraftLauncher.Properties.Resources.resources
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\obj\Release\JustMineCraftLauncher.csproj.GenerateResource.Cache
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\obj\Release\JustMineCraftLauncher.exe
+D:\启动器项目\JustMineCraftLauncher\JustMineCraftLauncher\obj\Release\JustMineCraftLauncher.pdb

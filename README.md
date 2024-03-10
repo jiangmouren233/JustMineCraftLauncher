@@ -5,9 +5,7 @@ Just MinCraft Launcher is a light simple minecraft launcher
 ## Function
 Just MineCraft Launcher can
 + Launch Minecraft
-+ Download game online
 + Support mod
-+ multiplayer
 + Auto find Java
 + ....
 ## Library

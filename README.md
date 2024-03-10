@@ -1,2 +1,17 @@
-# Just Minecraft Launcher official repositary
-Just Mincraft Launcher是一个轻量级，简约的minecraft启动器
+# Just MineCraft Launcher official repository
+## Introduction
+Just MinCraft Launcher is a light simple minecraft launcher
+## Function
+Just MineCraft Launcher can
++ Launch Minecraft
++ Download game online
++ Support mod
++ multiplayer
++ Auto find Java
++ ....
+## Library
+We use
++ kmccc
+## releases
+We don't have releases now,
+maybe release in june

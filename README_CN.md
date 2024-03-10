@@ -1,5 +1,5 @@
 # Just MineCraft Launcher官方仓库
-
+[English](README.md)
 ## 简介
 Just MinCraft Launcher是一款轻巧简单的Minecraft Launcher
 ## 功能

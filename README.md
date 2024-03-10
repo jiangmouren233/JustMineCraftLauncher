@@ -1,4 +1,5 @@
 # Just MineCraft Launcher official repository
+[中文](README_CN.md)
 ## Introduction
 Just MinCraft Launcher is a light simple minecraft launcher
 ## Function
